@@ -5,6 +5,6 @@ int
 main(int argc, char** argv)
 {
   string name;
-   std::cin >> name; // name имя бла бла
+  std::cin >> name; // nam
   std::cout << "Hello world from " << name << std::endl;
 }
